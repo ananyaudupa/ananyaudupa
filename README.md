@@ -13,13 +13,9 @@
 - MERN Stack  
 - Aptitude for placements  
 - Working on: `SkillLink – AI Resume Builder & Job Matcher`  
-- Past work: UI for UDAL Fellowship Finalist Project
 
-💬 **Ask me about:**  
-- Python, Flask, FastAPI  
-- MongoDB, Firebase  
-- Flutter (Admin Panels, Location APIs, Email integration)  
-- Frontend UI design using Next.js / HTML-CSS-JS  
+
+
 
 📫 **Reach me at**  
 - 📧 Email: ananyaudupa6@gmail.com  
