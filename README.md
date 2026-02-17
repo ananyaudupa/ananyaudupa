@@ -7,12 +7,6 @@
 
 ---
 
-🌱 **Currently Learning**  
-- Java + DSA (Apna College)  
-- Backend Development (30-Day Crash Plan)  
-- MERN Stack  
-- Aptitude for placements  
-- Working on: `SkillLink – AI Resume Builder & Job Matcher`  
 
 
 
@@ -23,15 +17,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🎯 [SkillLink – AI Resume & Job Matcher](https://github.com/ananyaudupa/skilllink)  
-  AI platform to extract resume info and match jobs using FastAPI + MongoDB
-
-- 🌊 [Emergency Wave]((https://github.com/ananyaudupa/HK-07))  
-  Digital Twin-Based Beach Emergency Alert & 3D Simulation System
-
----
 
 ### 🛠 Tech Stack
 
